@@ -1,0 +1,5 @@
+0 Green_Bin
+1 Blue_Bin
+2 Black_Bin
+3 Trash_Bin
+4 Hazardous
