@@ -1,6 +1,20 @@
-# wasteAdvisor
+# Waste Advisor Application
+- Application build using Flutter framework in Android Studio
 
-A new Flutter project.
+## Goal
+- Provide the name of a bin for a given waste item image
+
+## Functinalities 
+- API Call with JSON request
+- User Interface
+- Take an image using a camera app
+- Upload an image from the gallery
+
+## How App works
+<img src="https://github.com/vir007/Waste-advisor-application/blob/master/Screenshot/1.png" height="400" width="auto" alt="Home Screen of App" />
+
+<img src="https://github.com/vir007/Waste-advisor-application/blob/master/Screenshot/2.png" height="400" width="auto" alt="Home Screen of App" />
+
 
 ## Getting Started
 
