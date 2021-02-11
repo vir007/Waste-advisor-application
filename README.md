@@ -4,7 +4,7 @@
 ## Goal
 - Provide the name of a bin for a given waste item image
 
-## Functinalities 
+## Features 
 - API Call with JSON request
 - User Interface
 - Take an image using a camera app
